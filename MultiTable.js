@@ -1,3 +1,5 @@
+//DAY 2
+
 // Write a program to generate a multiplication table.
 
 // take input from the user
