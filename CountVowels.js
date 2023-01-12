@@ -1,3 +1,5 @@
+//DAY 3
+
 // Write a program to count the number of vowels in a string.
 
 function countVowel(str) { 
