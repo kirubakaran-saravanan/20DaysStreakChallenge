@@ -1,3 +1,5 @@
+//DAY 4
+
 // Write a program to shuffle the deck of cards and pick first five cards.
 
 // declare card elements
