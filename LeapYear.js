@@ -1,4 +1,6 @@
-// program to check leap year
+//DAY 5
+
+// Write a program to check leap year.
 function checkLeapYear(year) {
 
     //three conditions to find out the leap year
