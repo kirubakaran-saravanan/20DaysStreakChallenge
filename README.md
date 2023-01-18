@@ -1,5 +1,5 @@
 # 20DaysStreakChallenge
-```bash
+```
 JavaScript - 20 days of code streak.
 ```
 
