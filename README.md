@@ -3,7 +3,7 @@
 JavaScript - 20 days of code streak.
 ``
 
-**DAY 01** - Write a function that takes a number (a) as argument. Split a into its individual digits and return them in an array. 
+***DAY 01*** - Write a function that takes a number (a) as argument. Split a into its individual digits and return them in an array. 
 
 ### DAY 02
 Write a program to generate a multiplication table.
