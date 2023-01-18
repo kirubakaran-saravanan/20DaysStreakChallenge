@@ -1,7 +1,7 @@
 # 20DaysStreakChallenge
 JavaScript - 20 days of code streak.
 
-#### DAY 01
+### DAY 01
 Write a function that takes a number (a) as argument. Split a into its individual digits and return them in an array. 
 
 ### DAY 02
@@ -28,4 +28,4 @@ Write a program to verify re-entered password.
 ### DAY 09
 Create a Snake Game using JavaScript and HTML5.
 
-LinkedIn - https://www.linkedin.com/in/kirubakaran-saravanan-9b7166222/
+[LinkedIn](https://www.linkedin.com/in/kirubakaran-saravanan-9b7166222/)
