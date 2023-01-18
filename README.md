@@ -1,7 +1,7 @@
 # 20DaysStreakChallenge
 JavaScript - 20 days of code streak.
 
-### DAY 01
+## DAY 01
 Write a function that takes a number (a) as argument. Split a into its individual digits and return them in an array. 
 
 ### DAY 02
