@@ -76,4 +76,3 @@ function draw(){
     requestAnimationFrame(draw);
 }
 draw();
-x
