@@ -19,4 +19,6 @@
 
 **DAY 09** - *Create a Snake Game using JavaScript and HTML5.*
 
+**DAY 10** - *Create a Flappy Bird Game using JavaScript and HTML5.*
+
 [LinkedIn](https://www.linkedin.com/in/kirubakaran-saravanan-9b7166222/)
