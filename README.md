@@ -21,4 +21,6 @@
 
 **DAY 10** - *Create a Flappy Bird Game using JavaScript and HTML5.*
 
+**DAY 11** - *Create a Simple Jumping Game using JavaScript and HTML5.*
+
 [LinkedIn](https://www.linkedin.com/in/kirubakaran-saravanan-9b7166222/)
