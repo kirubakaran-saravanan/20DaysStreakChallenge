@@ -23,4 +23,6 @@
 
 **DAY 11** - *Create a Simple Jumping Game using JavaScript and HTML5.*
 
+**DAY 12** - *Write a Program to Calculate BMI.*
+
 [LinkedIn](https://www.linkedin.com/in/kirubakaran-saravanan-9b7166222/)
