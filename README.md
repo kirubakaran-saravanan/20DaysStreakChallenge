@@ -25,4 +25,6 @@
 
 **DAY 12** - *Write a Program to Calculate BMI.*
 
+**DAY 13** - *Create a StopWatch using JavaScript and HTML5.*
+
 [LinkedIn](https://www.linkedin.com/in/kirubakaran-saravanan-9b7166222/)
