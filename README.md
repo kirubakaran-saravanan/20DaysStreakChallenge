@@ -31,4 +31,6 @@
 
 **DAY 15** - *Create a Program to Roll Dice and give output.*
 
+**DAY 16** - *Write a Program to generate random colours.*
+
 [LinkedIn](https://www.linkedin.com/in/kirubakaran-saravanan-9b7166222/)
