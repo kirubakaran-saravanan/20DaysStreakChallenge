@@ -35,4 +35,6 @@
 
 **DAY 17** - *Write a Program to convert temperature from Celsius to Fahrenheit.*
 
+**DAY 18** - *Create an Analog Clock using JavaScript and HTML5.*
+
 [LinkedIn](https://www.linkedin.com/in/kirubakaran-saravanan-9b7166222/)
