@@ -1,4 +1,4 @@
-# 20 - Days Streak Challenge
+# 20-Days Streak Challenge
 ``JavaScript``
 
 **DAY 01** - *Write a function that splits a number into its individual digits and return them in an array.*
