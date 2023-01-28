@@ -37,4 +37,6 @@
 
 **DAY 18** - *Create an Analog Clock using JavaScript and HTML5.*
 
+**DAY 19** - *Write a Program to find the Internet Speed.*
+
 [LinkedIn](https://www.linkedin.com/in/kirubakaran-saravanan-9b7166222/)
