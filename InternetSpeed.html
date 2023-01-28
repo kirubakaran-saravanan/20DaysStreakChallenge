@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Detect Internet Speed</title>
+    <style>
+      *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        height: 100vh;
+        background: linear-gradient(#076962 50%, #1f7872 50%);
+      }
+      .container {
+        width: 350px;
+        background-color: #ffffff;
+        padding: 4em 2em;
+        position: absolute;
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+        border-radius: 0.5em;
+        font-family: "Poppins", sans-serif;
+        font-size: 1.2em;
+        line-height: 2.2em;
+        box-shadow: 0 1.6em 2.4em rgb(40, 4, 67, 0.3);
+      }
+      p {
+        font-size: 400;
+        color: #747497;
+        letter-spacing: 0.02em;
+      }
+      span {
+        font-weight: 500;
+        color: #090931;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <p id="mbs"><span>Speed In Mbps: </span></p>
+    </div>
+    <script>
+      //API link for random images: https://source.unsplash.com/random?topics=nature
+      let startTime, endTime;
+      let imageSize = "";
+      let image = new Image();
+      let mboutput = document.getElementById("mbs");
+      let imageLink = "https://source.unsplash.com/random?topics=nature";
+      image.onload = async function () {
+        endTime = new Date().getTime();
+        await fetch(imageLink).then((response) => {
+          imageSize = response.headers.get("content-length");
+          calculateSpeed();
+        });
+      };
+
+      function calculateSpeed() {
+        let timeDuration = (endTime - startTime) / 1000;
+        let loadedBits = imageSize * 8;
+        let speedInBps = (loadedBits / timeDuration).toFixed(2);
+        let speedInKbps = (speedInBps / 1024).toFixed(2);
+        let speedInMbps = (speedInKbps / 1024).toFixed(2);
+        mboutput.innerHTML += `${speedInMbps + ' Mbps'}`;
+      }
+
+      const init = async () => {
+        startTime = new Date().getTime();
+        image.src = imageLink;
+      };
+
+      window.onload = () => init();
+    </script>
+  </body>
+</html>
