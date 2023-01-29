@@ -39,4 +39,6 @@
 
 **DAY 19** - *Write a Program to find the Internet Speed.*
 
+**DAY 20** - *Create a Tic Tac Toe game using JavaScript and HTML5.*
+
 [LinkedIn](https://www.linkedin.com/in/kirubakaran-saravanan-9b7166222/)
